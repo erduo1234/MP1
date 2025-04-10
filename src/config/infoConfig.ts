@@ -4,14 +4,14 @@ export * from './career'
 
 // personal info
 export const name = 'Wick su'
-export const headline = 'you father'
+export const headline = '苏炯源100111000000111'
 export const introduction =
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020."
+  "101100111"
 export const email = 'erudok@163.com'
-export const githubUsername = 'derekhut'
+export const githubUsername = 'erduo1234'
 
 // about page
-export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
+export const aboutMeHeadline = 'Who i am and Why Should you Care?'
 export const aboutParagraphs = [
   "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
   'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
