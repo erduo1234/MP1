@@ -4,17 +4,17 @@ export * from './career'
 
 // personal info
 export const name = 'Wick su'
-export const headline = '苏炯源100111000000111'
+export const headline = '苏炯源'
 export const introduction =
-  "101100111"
+  "我是东莞本地人，我从事影视后期这个行业已经三年"
 export const email = 'erudok@163.com'
 export const githubUsername = 'erduo1234'
 
 // about page
 export const aboutMeHeadline = 'Who i am and Why Should you Care?'
 export const aboutParagraphs = [
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
-  'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
+  "我熟练的掌握各种影视技能，包括但不限于剪辑，调色，特效，3d特效.",
+  '可以使用blender进行建模，特效制作.',
   "I started this blog to share the insights I learn every day. Most blogs focus on education in Artificial Intelligence and general computer science, while others share the life lessons I've learned.",
 ]
 
@@ -35,12 +35,12 @@ export const socialLinks: Array<SocialLinkType> = [
   {
     name: 'Tiktok',
     icon: 'tiktok',
-    href: 'https://www.tiktok.com/@harvard?lang=en',
+    href: 'https://www.douyin.com/user/self?from_tab_name=main',
   },
   {
     name: 'Bilibili',
     icon: 'bilibili',
-    href: 'https://space.bilibili.com/349721082',
+    href: 'https://space.bilibili.com/362036538',
   },
 ]
 
