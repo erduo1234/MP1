@@ -16,7 +16,7 @@ export type ActivityItemType = {
 
 // Awards
 export const awardsHeadLine = "Awards & Honors"
-export const awardsIntro = "Recognition for academic and professional achievements."
+export const awardsIntro = "Recognition for academic and professional achievements ."
 
 export const awards: Array<ActivityItemType> = [
   {
@@ -39,16 +39,16 @@ export const projectIntro = "Academic research and technical projects I've worke
 
 export const projects: Array<ProjectItemType> = [
   {
-    name: 'Student Final Project Portfolio',
-    description: 'Static website portfolio',
+    name: '流体模拟',
+    description: '模拟tvc高速拍摄',
     link: { href: 'scls-cs.com', label: 'GitHub Cards' },
-    tags: ['Website', 'Next.js', 'TailwindCSS', 'DaisyUI', 'Portfolio']
+    tags: ['houdini', 'blender']
   },
   {
-    name: 'Seeking DNA',
+    name: '爆炸破坏模拟',
     description: '2022 SCLS Hackathon',
     link: { href: 'https://scls-cs.gitbook.io/scls-apcs-lab/lab5-dna', label: 'Hackathon' },
-    tags: ['Hackathon', 'Java']
+    tags: ['houdini', 'blender']
   },
   {
     name: 'Texas Holdem Poker Judge',

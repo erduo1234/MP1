@@ -13,8 +13,8 @@ export const githubUsername = 'erduo1234'
 // about page
 export const aboutMeHeadline = 'Who i am and Why Should you Care?'
 export const aboutParagraphs = [
-  "我熟练的掌握各种影视技能，包括但不限于剪辑，调色，特效，3d特效.",
-  '可以使用blender进行建模，特效制作.',
+  "我熟练的掌握各种影视技能,包括但不限于剪辑,调色,特效3d特效.",
+  '可以使用blender进行建模,特效制作.',
   "I started this blog to share the insights I learn every day. Most blogs focus on education in Artificial Intelligence and general computer science, while others share the life lessons I've learned.",
 ]
 
@@ -35,7 +35,7 @@ export const socialLinks: Array<SocialLinkType> = [
   {
     name: 'Tiktok',
     icon: 'tiktok',
-    href: 'https://www.douyin.com/user/self?from_tab_name=main',
+    href: 'https://www.tiktok.com/@harvard?lang=en',
   },
   {
     name: 'Bilibili',
